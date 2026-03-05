@@ -1,6 +1,6 @@
 <h1 align="center">hi! i'm bits</h1>
 <h2 align="left">i'm 16yo, i live in iraq</h2>
-<h3 align="left">i lead development in (RLidentity)[https://rlidentity.me]
+<h3 align="left">i lead development in RLidentity :3
 
 ###
 
