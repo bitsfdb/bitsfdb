@@ -1,5 +1,5 @@
 <h1 align="center">hi! i'm bits</h1>
-<h2 align="center">16yo developer from Iraq 🇮🇶</h2>
+<h2 align="center">16yo developer from Iraq </h2>
 <h3 align="center">Lead Developer @ RLidentity :3</h3>
 
 <p align="center">
@@ -8,7 +8,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bitsfdb&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=bitsfdb&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" alt="trophy graph" />
 </div>
 
 <div align="center">
