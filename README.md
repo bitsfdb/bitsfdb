@@ -1,7 +1,7 @@
 <h1 align="center">hi! i'm bits</h1>
-<h2 align="center">16yo developer from Iraq </h2>
-<h3 align="center">Lead Developer @ RLidentity :3</h3>
-<h4 align="center">Founder @ Override AI :3</h4>
+<h2 align="center">15yo developer from Iraq </h2>
+<h3 align="center">Founder @ Override AI :3</h3>
+<h4 align="center">Lead Developer @ RLidentity :3</h4>
 
 
 <p align="center">
