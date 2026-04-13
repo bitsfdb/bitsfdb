@@ -5,7 +5,11 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,storybook,graphql,rust,nestjs,py,bash,c,cpp,js,oracle,discord,tailwind,css,html,webstorm,clion,discordjs,ts" alt="tech stack" />
+  <img src="https://komarev.com/ghpvc/?username=4realwilly&label=Profile%20Views&color=53b14f&style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/870276689912012810"><img src="https://lanyard.cnrad.dev/api/870276689912012810?idleMessage=%20&showDisplayName=true&hideSpotify=true&theme=dark&bg=1a1a1a" /></a>
 </p>
 
 <div align="center">
