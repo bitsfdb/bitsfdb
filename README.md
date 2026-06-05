@@ -1,7 +1,6 @@
 <h1 align="center">hi! i'm bits</h1>
 <h2 align="center">15yo developer from Iraq </h2>
-<h3 align="center">Founder @ Override AI :3</h3>
-<h4 align="center">Lead Developer @ Common Grounds Development :3</h4>
+<h3 align="center">Lead Developer @ Common Grounds Development</h3>
 
 
 <p align="center">
