@@ -1,7 +1,6 @@
 <h1 align="center">hi! i'm bits</h1>
-<h2 align="center">15yo developer from Iraq </h2>
-<h3 align="center">Lead Developer @ Common Grounds Development</h3>
-
+<h2 align="center">16yo developer from Iraq!</h2>
+<h2 align="center">i fucking hate rocket league</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bitsfdb&label=Profile%20Views&color=53b14f&style=for-the-badge"/>
