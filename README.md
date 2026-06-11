@@ -1,6 +1,9 @@
 <h1 align="center">hi! i'm bits</h1>
-<h2 align="center">16yo developer from Iraq!</h2>
-<h2 align="center">i fucking hate rocket league</h2>
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; font-weight: bold; font-size: 1.5em; margin-top: 10px; margin-bottom: 20px;">
+  <span>16yo developer from iraq!</span>
+  <span>i fucking hate rocket league,</span>
+  <span>and i fucking hate chemistry</span>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bitsfdb&label=Profile%20Views&color=53b14f&style=for-the-badge"/>
@@ -18,7 +21,7 @@
   <a href="https://discord.com/users/870276689912012810" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" alt="discord" />
   </a>
-  <a href="mailto:bits@getoverride.app">
+  <a href="mailto:hi@sfdb.dev">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="email" />
   </a>
   <a href="https://instagram.com/bitsfdb" target="_blank">
